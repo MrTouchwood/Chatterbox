@@ -1,4 +1,4 @@
-# mariamaradou
+# Chatterbox
 A chat messenger app
 
 To run:
