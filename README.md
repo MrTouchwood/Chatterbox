@@ -12,3 +12,5 @@ To run:
 -nodemon app.js
 
 Enjoy!
+
+# Not actively developed!!!
